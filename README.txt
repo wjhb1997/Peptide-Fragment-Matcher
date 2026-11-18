@@ -1,6 +1,6 @@
-Attempting to perform the InitializeDefaultDrives operation on the 'FileSystem' provider failed.
+-----------------------------
 Peptide Fragment Mass Matcher
-============================
+-----------------------------
 
 Run on Windows by double-clicking Run_GUI.bat, or from a terminal:
   py -3 peptide_fragment_matcher_gui.py
